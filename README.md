@@ -9,6 +9,8 @@ Verifies data types for each column.
 Checks for duplicate rows.
 **Summary Statistics:** Generates key statistical summaries.
 PDF Report Generation: Compiles issues and summary statistics into a PDF report.
+**Dataset**
+This project utilizes a dataset sourced from **Kaggle**. Make sure to download the dataset and place it in the designated directory before running the script.
 **Requirements**
 Python 3.x: Ensure Python is installed on your system.
 Required Libraries:
